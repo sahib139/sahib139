@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sahib singh
 - 👀 I’m interested in machine learning and cyber security.
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on any project on github which can give me some real world knowledge.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 you can reach me by this mail id- ss0990100@gmail.com and my phone no. 8393880077.
 
 <!---
