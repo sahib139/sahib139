@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and cyber security.
 - 🌱 I’m currently learning DSA and cyber security.
 - 💞️ I’m looking to collaborate on any project.
-- 📫 you can reach me by this mail id- ss0990100@gmail.com and my phone no. 8393880077.
+- 📫 you can reach me by this mail id- ss0990100@gmail.com .
 
 <!---
 sahib139/sahib139 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
