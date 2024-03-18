@@ -1,4 +1,4 @@
-# Hello, I'm Sahib Singh! 👋
+5dsfvs# Hello, I'm Sahib Singh! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
@@ -17,13 +17,15 @@ I'm a Backend Developer.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/your-link)](https://github.com/your-link)
 [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&link=https://github.com/your-link)](https://github.com/your-link)
 
-## 📊 GitHub Stats
+### :fire: My Stats :
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahib139&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahib139&theme=dark&background=000000)](https://git.io/streak-stats)
 
-## 🔥 My Contributions
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahib139&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Heatmap](https://github-readme-stats.vercel.app/api/pin/?username=sahib139&repo=your-repo&theme=dracula)](https://github.com/sahib139/your-repo)
+
+
+
 
 ## 📫 How to Reach Me
 
