@@ -1,6 +1,6 @@
 # Hello, I'm Sahib Singh! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=sahib139)
 
 I'm a Backend Developer.
 
@@ -12,10 +12,10 @@ I'm a Backend Developer.
 
 ## 🛠️ Skills
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/your-link)](https://github.com/your-link)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=node.js&link=https://github.com/your-link)](https://github.com/your-link)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/your-link)](https://github.com/your-link)
-[![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&link=https://github.com/your-link)](https://github.com/your-link)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=node.js&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&link=https://github.com/sahib139)](https://github.com/sahib139)
 
 ### :fire: My Stats :
 
