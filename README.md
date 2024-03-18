@@ -1,4 +1,4 @@
-5dsfvs# Hello, I'm Sahib Singh! 👋
+# Hello, I'm Sahib Singh! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
@@ -8,7 +8,7 @@ I'm a Backend Developer.
 
 - 👨🏻‍💻 I'm passionate about backend development and security enhancement.
 - 🌱 I'm currently learning unit testing.
-- 💼 I'm open for job opportunities.
+- 💼 I'm open to job opportunities.
 
 ## 🛠️ Skills
 
@@ -25,14 +25,7 @@ I'm a Backend Developer.
 
 
 
-
-
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sahib-singh-b715b2207/)](https://www.linkedin.com/in/sahib-singh-b715b2207/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&link=https://twitter.com/your-link)](https://twitter.com/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&link=https://your-portfolio.com/)](https://your-portfolio.com/)
-
-## ❤️ Support Me
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ff69b4?style=flat&logo=buy-me-a-coffee&link=https://www.buymeacoffee.com/your-link)](https://www.buymeacoffee.com/your-link)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&link=https://twitter.com/sahib139)](https://twitter.com/sahib139)
