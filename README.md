@@ -13,16 +13,17 @@ I'm a Backend Developer.
 ## 🛠️ Skills
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/sahib139)](https://github.com/sahib139)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=node.js&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&link=https://github.com/sahib139)](https://github.com/sahib139)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)](https://github.com/sahib139)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)](https://github.com/sahib139)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)](https://github.com/sahib139)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sahib139)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)](https://github.com/sahib139)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)](https://github.com/sahib139)
-[![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat&logo=windows-terminal&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=windows-terminal&link=https://github.com/sahib139)](https://github.com/sahib139)
+
 
 
 ### :fire: My Stats :
