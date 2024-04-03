@@ -16,6 +16,14 @@ I'm a Backend Developer.
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=node.js&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)](https://github.com/sahib139)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)](https://github.com/sahib139)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)](https://github.com/sahib139)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sahib139)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)](https://github.com/sahib139)
+[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)](https://github.com/sahib139)
+[![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat&logo=windows-terminal)](https://github.com/sahib139)
+
 
 ### :fire: My Stats :
 
