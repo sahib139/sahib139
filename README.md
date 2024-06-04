@@ -7,7 +7,7 @@ I'm a Backend Developer.
 ## 🚀 About Me
 
 - 👨🏻‍💻 I'm passionate about backend development and security enhancement.
-- 🌱 I'm currently learning unit testing.
+- 🌱 I'm currently learning the Golang backend framework(fiber,echo..)
 - 💼 I'm open to job opportunities.
 
 ## 🛠️ Skills
@@ -23,6 +23,8 @@ I'm a Backend Developer.
 [![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visual-studio-code&link=https://github.com/sahib139)](https://github.com/sahib139)
 [![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat&logo=windows-terminal&link=https://github.com/sahib139)](https://github.com/sahib139)
+[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/sahib139)](https://github.com/sahib139)
+
 
 
 
